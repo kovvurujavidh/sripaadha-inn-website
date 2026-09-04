@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# extracted reference images (not used by site)
+/public/images/pdf-extract/
+
 # vercel
 .vercel
 
